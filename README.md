@@ -15,3 +15,7 @@
   * 保证我准确理解你所说的话是我的责任
 * 自由 & 包容 & 多元化
 * 独立思考
+
+# Organization
+
+![image](https://user-images.githubusercontent.com/2985258/40111870-bfcc8e48-5936-11e8-82ad-0e271a6653ba.png)
